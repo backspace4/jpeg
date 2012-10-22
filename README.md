@@ -1,4 +1,5 @@
-`yuunaka@yuunakaT ~/dev/jpeg % ./jpeg_markers.py hoge.jpg
+`
+yuunaka@yuunakaT ~/dev/jpeg % ./jpeg_markers.py hoge.jpg
 MARK:        pos     size
 -------------------------
  SOI: 0x00000001        0

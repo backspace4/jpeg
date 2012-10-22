@@ -1,4 +1,4 @@
-yuunaka@yuunakaT ~/dev/jpeg % ./jpeg_markers.py 51W3A9A9N2L._SL100_.jpg
+`yuunaka@yuunakaT ~/dev/jpeg % ./jpeg_markers.py hoge.jpg
 MARK:        pos     size
 -------------------------
  SOI: 0x00000001        0
@@ -13,3 +13,4 @@ SOF0: 0x0000009f       17
  SOS: 0x00000166        0
  EOI: 0x00000e34        0
 
+`
